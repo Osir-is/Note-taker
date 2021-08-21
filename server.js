@@ -18,6 +18,6 @@ pp.get("/api/notes", function(req, res) {
   res.sendFile(path.join(__dirname, "db/db.json"));})
 
 
- app.listen(PORT, () =>
-  console.log(`Example app listening at http://localhost:${PORT}`))
+ app.listen(PORT,function (){
+  console.log(`Example app listening at http://localhost:${PORT}`)});
   
