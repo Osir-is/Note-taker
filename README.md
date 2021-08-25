@@ -29,7 +29,7 @@ https://note-taker-22-08-2021.herokuapp.com/notes
 
 
 ## Video Walkthrough
-
+https://drive.google.com/file/d/10TJfBJTwEOfKfPeyznQQzaEWzmtHqW3e/view
 
 
 
